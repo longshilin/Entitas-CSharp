@@ -1,4 +1,6 @@
 language: csharp
+mono:
+  - 5.18
 sudo: required
 before_install:
   - sudo apt-get update
