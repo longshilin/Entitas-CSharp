@@ -1,8 +1,5 @@
 language: csharp
 dist: trusty
-mono:
-  - 5.18.0
-  - latest
 sudo: required
 before_install:
   - sudo apt-get update
